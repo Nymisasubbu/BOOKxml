@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+<users>
+    <user>
+        <id>1</id>
+        <name>Nymisha</name>
+        <role>Student</role>
+        <department>Computer Science</department>
+        <email>nymisha@gmail.com</email>
+    </user>
+
+    <user>
+        <id>2</id>
+        <name>Eshu</name>
+        <role>Faculty</role>
+        <department>Mathematics</department>
+        <email>eshu@gmail.com</email>
+    </user>
+
+    <user>
+        <id>3</id>
+        <name>Nishi</name>
+        <role>Student</role>
+        <department>Physics</department>
+        <email>nishi@gmail.com</email>
+    </user>
+
+    <user>
+        <id>4</id>
+        <name>Suma</name>
+        <role>Faculty</role>
+        <department>Chemistry</department>
+        <email>suma@gmail.com</email>
+    </user>
+
+    <user>
+        <id>5</id>
+        <name>Pallavi</name>
+        <role>Student</role>
+        <department>Biology</department>
+        <email>pallavi@gmail.com</email>
+    </user>
+
+    <user>
+        <id>6</id>
+        <name>Sneha</name>
+        <role>Faculty</role>
+        <department>English</department>
+        <email>sneha@gmail.com</email>
+    </user>
+
+    <user>
+        <id>7</id>
+        <name>Ammu</name>
+        <role>Student</role>
+        <department>Mechanical</department>
+        <email>ammu@gmail.com</email>
+    </user>
+
+    <user>
+        <id>8</id>
+        <name>Shravani</name>
+        <role>Faculty</role>
+        <department>Economics</department>
+        <email>shravani@gmail.com</email>
+    </user>
+
+    <user>
+        <id>9</id>
+        <name>Srihitha</name>
+        <role>Student</role>
+        <department>Civil</department>
+        <email>srihitha@gmail.com</email>
+    </user>
+
+    <user>
+        <id>10</id>
+        <name>Suhana</name>
+        <role>Faculty</role>
+        <department>History</department>
+        <email>suhana@gmail.com</email>
+    </user>
+</users>
